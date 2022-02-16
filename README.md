@@ -7,6 +7,6 @@ I'm Licoy, from china, thank you very much for visiting my home page.
 Hello 2022!
 
 ### About
-⚙ I use: `.java`, `.php`, `.go`, `.js`, `.html`, `.css`, `.vue`, `...`
+⚙ I use: `.java`, `.php`, `.go`, `.py`, `.vue`, `.js`, `.less`, `...`
 
 🌱 I've worked, but I'm still learning
