@@ -3,9 +3,10 @@
 
 I'm Licoy, from china, thank you very much for visiting my home page.
 
-### Emmm
-Hello 2022!
-
+### Links
+- [Licoy's Blog](https://licoy.cn)
+- [Online Utils](https://utils.fun)
+- [Git CDN](https://gitcdn.top)
 ### About
 ⚙ I use: `.java`, `.php`, `.go`, `.py`, `.vue`, `.js`, `.less`, `...`
 
