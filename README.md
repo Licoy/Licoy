@@ -10,7 +10,3 @@
 - [Utils](https://utils.fun)
 - [Github CDN](https://gitcdn.top)
 - [Github Hosts](https://hosts.gitcdn.top)
-### About
-⚙ I use: `.java`, `.php`, `.go`, `.py`, `.vue`, `.js`, `.less`, `...`
-
-🌱 I've worked, but I'm still learning
