@@ -8,5 +8,5 @@
 ### Links
 - [Blog](https://licoy.cn)
 - [Utils](https://utils.fun)
-- [Github CDN](https://gitcdn.top)
+- [Github CDN](https://gh.gitcdn.top/)
 - [Github Hosts](https://hosts.gitcdn.top)
