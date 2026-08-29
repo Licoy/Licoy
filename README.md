@@ -13,4 +13,5 @@
 - [AQBot](https://github.com/AQBot-Desktop/AQBot) - 轻量级高性能跨平台AI对话 + AI Agent + AI网关桌面客户端
 - [CodexRunway](https://github.com/Licoy/codex-runway) - Codex Runway 是一个原生 macOS 状态栏应用，帮你在菜单栏查看 Codex 与 Grok 额度，并提供 Codex 的今日是否重置、reset credits、API 等价成本与本机会话能力，以及两个供应商各自独立的多账号管理。
 - [StrokeMouse](https://github.com/Licoy/StrokeMouse) - macOS 鼠标/触控板手势自定义工具，按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等
+- [XiaoBaiSwitch](https://github.com/Licoy/xiaobai-switch) - 小白也能上手的 Claude Code / Codex 等Agents的上游配置切换桌面应用 | A cross-platform, site-driven desktop app for switching Claude Code & Codex providers
 - [More -> 点击我查看 ✌️](https://github.com/Licoy?tab=repositories)
