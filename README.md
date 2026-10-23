@@ -1,5 +1,5 @@
 ### Hi here!
-🙋 I'm Licoy, from china, thank you very much for visiting my home page.
+🙋 I'm Licoy, A full-stack development engineer with 12 years of experience, specializing in AIGC startups, sharing AI, business, entrepreneurship, and fun technologies on X, let's grow together!
 
 ### Links
 - [Blog](https://licoy.cn)
