@@ -3,6 +3,8 @@
 
 ### Links
 - [Blog](https://licoy.cn)
+- [Did Codex Reset?](https://didcodexreset.com)
+- [Study GrokBot](https://studygrokbot.com)
 - [Utils](https://utils.fun)
 - [Github Hosts](https://hosts.gitcdn.top)
 - [Github CDN](https://gh.gitcdn.top/)
